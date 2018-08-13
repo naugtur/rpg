@@ -11,8 +11,8 @@ const before = `
 <body>
 <section class="cover">
   <h1 id="start" class="title">Groza bezcelowości</h1>
-  <h4>Scenariusz grozy w klimacie Sci-Fi / Alien</h4>
-  <p class="punchline">Rozważanie sensu wykonywanej pracy. Nie po to uciekam w RPG...</p>
+  <h4>Scenariusz grozy w klimacie Sci-Fi</h4>
+  <p class="punchline">Rozważanie sensu wykonywanej pracy? Nie po to uciekam w RPG...</p>
 </section>
 <article>
 `;
