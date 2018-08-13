@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,700&subset=latin-ext');
+html {
+  width: 100%;
+  overflow-x: hidden;
+}
+body {
+  font-family: 'Roboto', serif;
+  font-size: 4mm;
+  margin-left: 0;
+  overflow-x: visible;
+  text-align: justify;
+  background: #fff;
+}
+
+@media screen and (min-width: 800px){
+  body {
+    width: 20cm;
+
+  }
+  article {
+    /*! margin: 2cm; */
+  }
+}
+
+p, ul, li {
+  line-height: 1.7em;
+}
+
+h1{
+  font-size: 12mm
+}h2{
+  font-size: 9mm
+}h3{
+  font-size: 6mm
+}h4{
+  font-size: 5mm
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
+
+.cover {
+  text-align: center;
+  /* page-break-after: always; */
+}
+
+section, article {
+  padding: 2cm;
+  background: #fff;
+}
+
+.logo, .punchline {
+  margin: 2cm 0;
+  font-size: 0.8em;
+}
+
+.title {
+  font-size: 3em;
+  margin-bottom: 0;
+  line-height: 1em;
+}
+
+article > h1 {
+  color: #fff;
+  background-color: #222;
+  background: #000 url('http://1-background.com/images/stars-1/beautiful-blue-stars-fill.jpg');
+  width: 200cm;
+  margin-top: 2cm;
+  margin-left: -1cm;
+  padding: 1mm;
+  padding-left: 1cm;
+  page-break-before: always;
+}
+article>h2{
+  width: 200cm;
+  border-bottom: 1px solid #222;
+
+}
+
+hr {
+  page-break-before: always;
+  border: none;
+}
+
+blockquote, q {
+  color: #555;
+  border-left: 3mm solid #eee;
+  padding: 0.1mm 5mm;
+  page-break-inside: avoid;
+}
+
+table {
+  border: 1px solid #ddd;
+  padding: 4mm;
+  font-size: 1.2em;
+  float:right;
+  margin: 2mm 7mm;
+  page-break-inside: avoid;
+}
+th, td {
+  padding: 0 2mm;
+  margin: 1px;
+}
+table tr:not(:last-child) td{
+  border-bottom: 1px solid #ddd;
+}
+table tr td:not(:last-child) {
+  border-right: 1px solid #ddd;
+}
+
+/*fix printing heads*/
+thead {
+  display: table-caption;
+}
+
+code {
+  font-size: 4.5mm;
+  line-height: 4mm;
+}
+
+pre>code {
+  font-family: 'Glegoo', serif;
+  font-size: 3.5mm;
+  line-height: 3mm;
+  font-style: italic;
+}
+pre {
+  padding-left: 10mm;
+  page-break-inside: avoid;
+}
+
+
+li {
+  page-break-inside: avoid;
+  list-style-type: square;
+}
+li li {
+  list-style-type: circle;
+}
+
+a, a:visited {
+  color: #227;
+}
+a:hover {
+  color: #33d;
+}
+
+@media print {
+  html, body{
+    width: 20cm;
+    overflow:hidden;
+  }
+  section, article {
+    margin-right: 1cm;
+    margin-left: 0;
+  }
+ 
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+  a:not([href^='#']):not([href^='.'])::after {
+    content: attr(href);
+    display: inline;
+    margin: 0 1mm;
+    text-decoration:underline;
+    outline: 1px solid #eee;
+    padding: 0 1mm;
+  }
+  a[href^='.'] {
+    display:none;
+  }
+}

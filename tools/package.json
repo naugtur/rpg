@@ -1,0 +1,17 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npm run html && npm run pdf",
+    "html": "marked -i ../index.md | node ./wrap.js > ../index.html",
+    "pdf": "electron-pdf ../index.html ../index.pdf -d -w2000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-pdf": "^1.2.5",
+    "marked": "^0.3.6"
+  }
+}
