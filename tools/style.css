@@ -88,7 +88,6 @@ blockquote, q {
   color: #555;
   border-left: 3mm solid #eee;
   padding: 0.1mm 5mm;
-  page-break-inside: avoid;
 }
 
 table {
@@ -97,7 +96,6 @@ table {
   font-size: 1.2em;
   float:right;
   margin: 2mm 7mm;
-  page-break-inside: avoid;
 }
 th, td {
   padding: 0 2mm;
@@ -128,12 +126,14 @@ pre>code {
 }
 pre {
   padding-left: 10mm;
+}
+
+p, li, pre, blockquote, q, table {
   page-break-inside: avoid;
 }
 
-
 li {
-  page-break-inside: avoid;
+  
   list-style-type: square;
 }
 li li {
@@ -152,11 +152,7 @@ a:hover {
     width: 20cm;
     overflow:hidden;
   }
-  section, article {
-    margin-right: 1cm;
-    margin-left: 0;
-  }
- 
+
   a {
     color: #000;
     text-decoration: none;

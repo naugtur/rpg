@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron-pdf": "^1.2.5",
+    "electron-pdf": "1.2.0",
     "marked": "^0.3.6"
   }
 }
