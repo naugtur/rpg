@@ -1,3 +1,7 @@
+**Autor**: ____________
+
+Podziękowania za testowanie i pomoc w doprowadzeniu do powstaina tego tekstu należą się:
+Agacie, Asi, Mikołajowi, Kubie, Tadkowi, jeszcze jednemu Kubie i wszystkim, z którymi kiedykolwiek grałem.
 
 **Mechanika**: [Dread](http://www.tiltingatwindmills.net/games/dread/)
 
@@ -167,6 +171,8 @@ Krok dalej kolejna gródź pozwala wejść do hangaru.
 
 Drzwi z mesy do schodów prowadzących na mostek są zamknięte. Żeby dostać się na mostek będą je musieli uszkodzić. Przez kratki schodów przecieka lepka substancja w kolorze krwi (kolejna nieudana próba odtworzenia załogi). Gdy bohaterowie wrócą do zniszczonych drzwi po jakimś czasie zobaczą, że są częściowo naprawione przez automaty. Krwista substancja kapie również z sufitu. Czy odważą się jej dotknąć? (nic im nie grozi, ale wyciągnąć klocek z wieży przy pierwszym kontakcie z kombinezonem nie zaszkodzi)
 
+---
+
 ### Mostek
 
 Na mostek wchodzi się ze schodów. Wyjścia mogą być również pozamykane lub prowadzić do aktu 3, bo gracze prawdopodobnie najpierw zwiedzą korytarz, do którego nie trzeba się było włamywać.
@@ -233,6 +239,8 @@ Następne wydarzenie jest proste do przewidzenia - maszyna znów ruszy i ściana
 
 Jeśli świadomość wydarzeń sprzed chwili nie przekona ich do ostatecznej ucieczki, najlepiej działa sugestia, że pomieszczenie zaczyna się kurczyć. Brzmi trywialnie, ale działa świetnie. Oczywiście wychodząc muszą minąć dziesiątki zdezaktywowanych robotów, co do których nie mają pewności, że nie ożyją w dowolnym momencie. To też okazja do wyciągnięcia kilku klocków z nowo odbudowanej wieży, żeby nie zapominali o zagrożeniu.
 
+---
+
 ### Alternatywne rozwiązanie
 
 Co jeśli bohaterowie przestraszą się za bardzo i uciekną wcześniej? 
@@ -282,7 +290,9 @@ Postaraj się do tego nie dopuścić. Zdarzyło mi się poprawić nieco chwieją
 
 Jeśli mimo wszystko wydarzy się "bum", można uznać to za moment kontaktu i spróbować pokazać akt 3 po fakcie. 
 
-W najgorszym wypadku gracz zostaje wyeliminowany zgodnie z zasadami i gra toczy się dalej. Taki mamy system.
+W najgorszym wypadku gracz zostaje wyeliminowany zgodnie z zasadami i gra toczy się dalej. Taki mamy system. 
+
+---
 
 ## Brak planu statku
 
