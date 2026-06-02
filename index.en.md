@@ -21,19 +21,23 @@ Agata, Asia, Mikołaj, Kuba, Tadek, another Kuba, and everyone I've ever played 
 
 "The Dread of Purposelessness" is a scenario for the killer-simple [Dread](http://www.tiltingatwindmills.net/games/dread/) game. The game focuses on action and risk, building tension, and the inevitable approach of the final ~~defeat~~ confrontation.
 
-Theoretically, you can play it using another system, but I recommend Dread for the experience it provides. The entire mechanic in Dread is a Jenga tower, from which you pull a block in situations where you'd roll dice in other systems.
+Theoretically, you can play it using any other game mechanics, but I recommend Dread for best experience. All Dread uses is a Jenga tower, from which you pull a block in situations where you'd roll dice in other systems.
 
 ```
 In the scenario, I indirectly encourage playing with emotions and fears, so before we go any further, it's worth mentioning that RPGs are about having fun. That's why it's best to play this game with people who like being scared and know what they are signing up for.
 
 ```
 
-The text you're reading is meant to help you run the adventure to keep the players in suspense and provide them with a satisfying experience, so there will be not only the plot but also tips. Everything below is written pragmatically; don't expect a storytelling formula.
+The text you're reading is meant to help you run the adventure to keep the players in suspense and provide them with a satisfying experience, soit contains the plot but also tips for you. Everything below is written pragmatically; don't expect a storytelling formula. I'm also not a professional writer, so keep your expectations in check.
 
-Let me start with one essential piece of advice - nothing gets in the way of running a narrative quite like weightlessness. Before you start playing, agree with the players that (despite the lack of a scientific and logical basis) you will allow the presence of artificial gravity in the rooms. Zero-G can be an interesting moment and might work well in outer space, but in a ship or a wreck, if you are to communicate effectively about the actions taken, it's good to have a shared concept of where "up" is and be able to allow yourselves the reflex use of verbs like "you walk."
+Let me start with one essential piece of advice - nothing gets in the way of running a narrative quite like zero-gravity environment. Before you start playing, agree with the players that (despite the lack of a scientific basis) you will allow the presence of artificial gravity in the rooms. Zero-G can be an interesting moment and might work well in outer space, but in a ship or a wreck, if you are to communicate effectively about the actions taken, it's good to have a shared concept of where "up" is and be able to say things like "you walk" without thinking twice.
 
 The scenario has a simple structure of a beginning, middle, and end, which will differ in atmosphere.
-It starts out like "early Lem" with a bit of sarcasm, transitions into typical Sci-Fi about dangerous alien lifeforms, and ends with references to hard SF. There's room for improvisation and non-linearity, while the ending should fit most possible branches. If it were otherwise, you'd have to "play" the role of the AI and figure out how it would act.
+It starts out like "early Lem" with a bit of sarcasm,
+
+> For English speakers that are lost - "early Lem" refers to the early works of the Polish science fiction writer Stanisław Lem, which are somewhat similar to the space opera genre with "space faring ships" and a bunch of humor.
+
+transitions into typical Sci-Fi about dangerous alien lifeforms, and ends with references to hard SF. There's room for improvisation and non-linearity, while the ending should fit most possible branches. If it were otherwise, you'd have to "play" the role of the AI and figure out how it would act.
 
 In playtests, "The Dread of Purposelessness" run for 3 players usually lasted 3 to 4 hours.
 
@@ -49,7 +53,7 @@ The adventure is set around the year 2500. Earth's civilization has conquered an
 
 **Do not reveal this part to the players**
 
-The foundation of the scenario is an event from over 200 years ago, when the first ships equipped with an autonomous Artificial Intelligence controlling navigation and the functioning of the ship's systems were produced. The first ship set off on its maiden voyage and, as befits the mental successor to the Titanic, due to too much trust placed in autonomous systems, collided with an asteroid. Ultimately, all attempts to use advanced AI to automate complex tasks were legally banned after repairing automatons, responding to damaged medical equipment, rebuilt not only the operating pod but also parts of the patient. Unfortunately, without consistency with the original design developed by evolution. Since then, research in the field of AI has become a taboo subject. Most of society in 2500 no longer remembers the reasons for abandoning this branch of science. Simple artificial intelligence at the level known from 20th-century Sci-Fi is still in use.
+The foundation of the scenario is an event from over 200 years ago, when the first ships equipped with an autonomous Artificial Intelligence controlling navigation and the functioning of the ship's systems were produced. The first ship set off on its maiden voyage and, as befits the mental successor to the Titanic, due to too much trust placed in autonomous systems, collided with an asteroid. Ultimately, all attempts to use advanced AI to automate complex tasks were legally banned after repairing automatons, responding to damaged medical equipment, rebuilt not only the operating pod but also parts of the patient. Unfortunately, without consistency with the original design we all know and somewhat enjoy. Since then, research in the field of AI has become a taboo subject. Most of society in 2500 no longer remembers the reasons for abandoning this branch of science. Simple artificial intelligence at the level known from 20th-century Sci-Fi is still in use.
 
 The Artificial Intelligence appearing in the scenario generates nonsensical gibberish and content without understanding its semantics. You probably need a blunt example to understand what such gibberish looks like. Here is the work of a neural network trained on the prose of Henryk Sienkiewicz:
 
